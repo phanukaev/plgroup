@@ -1,6 +1,6 @@
 ---
 layout: semester
-semester: Spring
+semester: Fall
 year: 2026
 awards: false
 note: set awards to true when there is a file awards.md and false otherwise
@@ -13,7 +13,7 @@ perspectives on PL research topics. We randomly select papers from the major
 PL conferences. At the end of the semester we gather for a lively discussion
 to give prestigious awards to select papers.
 
-**We meet weekly on Fridays at 3–4 pm in <mark>UH227</mark> on Summerville Campus.**
+**We meet weekly on Fridays from 11 am till noon in <mark>UH227</mark> on Summerville Campus.**
 
 We encourage everyone to join our reading group. Even if your primary focus
 is not PL, this is a chance to learn about various new topics that may become
@@ -26,20 +26,20 @@ organization.
 ### Semester Schedule
 
 
-| \#  | Date        | Description                        | Location          |
-|:---:|:------------|:-----------------------------------|:------------------|
-| 0.  | January 9   | Planning Meeting                   | UH 117 (Palazzo)  |
-| 1.  | January 23  | Robust Constant-Time Cryptography. | UH 314            |
-| 2.  | January 30  | Binary search—think positive                 | UH 227 (Fishbowl) |
-| 3.  | February 6  | Security Reasoning via Substructural Dependency Tracking                 | UH 227 (Fishbowl) |
-| 4.  | February 13 | Verified programming of Turing machines in Coq                 | UH 227 (Fishbowl) |
-| 5.  | February 20 | Logical relations for a logical framework                 | UH 227 (Fishbowl) |
-| 6.  | February 27 | Linearizability: a correctness condition for concurrent objects                 | UH 227 (Fishbowl) |
-| 7.  | March 13    | Is sized typing for Coq practical?                 | UH 227 (Fishbowl) |
-| 8.  | March 20    | A Domain-Specific Probabilistic Programming Language for Reasoning about Reasoning (Or: A Memo on memo)                 | UH 227 (Fishbowl) |
-| 9.  | March 27    | Distributed MIS in O(log log n) Awake Complexity                 | UH 227 (Fishbowl) |
-| 10. | April 3     | Reversible computing from a programming language perspective                | UH 227 (Fishbowl) |
-| 12. | April 24    | Awards Gala                        | UH 227 (Fishbowl) |
+| \#  | Date         | Description         | Location          |
+|:---:|:-------------|:--------------------|:------------------|
+| 0.  | August 21    | Opening Meeting     | UH 277 (Fishbowl) |
+| 1.  | August 28    | TBA                 | UH 277 (Fishbowl) |
+| 2.  | September 04 | Paper 01 Discussion | UH 277 (Fishbowl) |
+| 3.  | September 11 | Paper 02 Discussion | UH 277 (Fishbowl) |
+| 4.  | September 18 | Paper 03 Discussion | UH 277 (Fishbowl) |
+| 5.  | September 25 | Paper 04 Discussion | UH 277 (Fishbowl) |
+| 6.  | October 02   | Paper 05 Discussion | UH 277 (Fishbowl) |
+| 7.  | October 09   | Paper 06 Discussion | UH 277 (Fishbowl) |
+| 8.  | October 16   | Paper 07 Discussion | UH 277 (Fishbowl) |
+| 9.  | October 23   | Paper 08 Discussion | UH 277 (Fishbowl) |
+| 10. | October 30   | Paper 09 Discussion | UH 277 (Fishbowl) |
+| 11. | November 06  | Paper 10 Discussion | UH 277 (Fishbowl) |
+| 12. | November 20  | Awards Gala         | UH 277 (Fishbowl) |
 
-No meetings March 6 (Spring Pause) and April 10 (Spring Break).
-The week of April 17 is reserved for awards gala preparation.
+The week of November 13 is reserved for Awards Gala preparation.

@@ -30,16 +30,16 @@ organization.
 |:---:|:-------------|:--------------------|:------------------|
 | 0.  | August 21    | Opening Meeting     | UH 277 (Fishbowl) |
 | 1.  | August 28    | TBA                 | UH 277 (Fishbowl) |
-| 2.  | September 04 | Paper 01 Discussion | UH 277 (Fishbowl) |
-| 3.  | September 11 | Paper 02 Discussion | UH 277 (Fishbowl) |
-| 4.  | September 18 | Paper 03 Discussion | UH 277 (Fishbowl) |
-| 5.  | September 25 | Paper 04 Discussion | UH 277 (Fishbowl) |
-| 6.  | October 02   | Paper 05 Discussion | UH 277 (Fishbowl) |
-| 7.  | October 09   | Paper 06 Discussion | UH 277 (Fishbowl) |
-| 8.  | October 16   | Paper 07 Discussion | UH 277 (Fishbowl) |
-| 9.  | October 23   | Paper 08 Discussion | UH 277 (Fishbowl) |
-| 10. | October 30   | Paper 09 Discussion | UH 277 (Fishbowl) |
-| 11. | November 06  | Paper 10 Discussion | UH 277 (Fishbowl) |
+| 2.  | September 04 | Paper 01 discussion | UH 277 (Fishbowl) |
+| 3.  | September 11 | Paper 02 discussion | UH 277 (Fishbowl) |
+| 4.  | September 18 | Paper 03 discussion | UH 277 (Fishbowl) |
+| 5.  | September 25 | Paper 04 discussion | UH 277 (Fishbowl) |
+| 6.  | October 02   | Paper 05 discussion | UH 277 (Fishbowl) |
+| 7.  | October 09   | Paper 06 discussion | UH 277 (Fishbowl) |
+| 8.  | October 16   | Paper 07 discussion | UH 277 (Fishbowl) |
+| 9.  | October 23   | Paper 08 discussion | UH 277 (Fishbowl) |
+| 10. | October 30   | Paper 09 discussion | UH 277 (Fishbowl) |
+| 11. | November 06  | Paper 10 discussion | UH 277 (Fishbowl) |
 | 12. | November 20  | Awards Gala         | UH 277 (Fishbowl) |
 
 The week of November 13 is reserved for Awards Gala preparation.

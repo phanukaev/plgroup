@@ -1,0 +1,1 @@
+1. Urban, Josef. “130k Lines of Formal Topology in Two Weeks: Simple and Cheap Autoformalization for Everyone? (Short Paper).” LIPIcs, Volume 382, ITP 2026, edited by Ekaterina Komendantskaya and Tobias Nipkow, vol. 382, no. 31, Schloss Dagstuhl – Leibniz-Zentrum für Informatik, 2026, p. 31:1-31:9, <https://doi.org/10.4230/LIPICS.ITP.2026.31>.
